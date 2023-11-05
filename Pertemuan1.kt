@@ -66,3 +66,9 @@ fun kali(a:Int, b:int){
 fun bagi(a:Int, b:int){
     println(a / b)
 }
+
+class Human{
+    fun Hands(){
+	print("Hallo")
+    }
+}
